@@ -1,0 +1,13 @@
+{
+    "testData": [
+        {
+            "url": "https://www.awwwards.com/",
+            "data": "Testing with page object",
+            "iconSearch": "//div[@id='js-search-container']",
+            "text": "//input[@id='search-text']",
+            "menu": "//div[@class='item bt-menu js-nav-main']"
+
+
+        }
+    ]
+}

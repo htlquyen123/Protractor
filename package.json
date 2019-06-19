@@ -1,0 +1,19 @@
+{
+  "name": "protractortest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "jasmine": "^3.4.0",
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.3.12"
+  },
+  "author": "",
+  "license": "ISC"
+}
